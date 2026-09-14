@@ -1,7 +1,7 @@
 # Análise de Sentimento Financeiro com FinBERT
 
 ## Integrantes
-- Arthur
+- Arthur e João Gabriel
 
 ## Objetivo
 Aplicação em PHP que consome a API do Hugging Face para analisar o sentimento
